@@ -1,0 +1,18 @@
+1) let a = "Bugun juda yomon kayfiyatda uyg'ondim";
+String metodlaridan foydalanib,
+a dagi matnni "Bugun juda a'lo kayfiyatda uyg'ondim"ga o'zgartiring.
+Bunda a ning original qiymati o'zgarmasin.
+
+2) let b = "Musaffo osmon";
+String metodlaridan foydalanib b ning original qiymatini o'zgartirmagan holda
+b dagi matnni Usmonga o'zgartiring.
+
+3) 100dan 250gacha bo'lgan sonlar orasidan tasodifiy butun son tanlaydigan kod yozing va uni o'zgaruvchiga saqlang.
+
+4) let c = "      ushbu yozuv aslida katta harflarda bo'lish kerak          ";
+String metodlaridan foydalanib c ning original qiymatini o'zgartirmagan holda, c dagi matndan
+ortiqcha bo'shliqlarni olib tashlang va hamma xarflarni katta harflarga o'zgartiring.
+
+5) let baqirib_kulish = "XAXAXAXAXA";
+String metodlaridan foydalanib d ning original qiymatini o'zgartirmagan holda, d dagi matnni
+"XIXIXI"ga o'zgartiring hamda hosil bo'lgan stringni sekin_kulish nomli o'zgaruvchiga saqlang.
